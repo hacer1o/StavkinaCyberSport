@@ -7,7 +7,7 @@ This programe predict matches for 14 CsGO commands
 5) The user has no right to change the database of the program
 6) The author is not responsible for damage to the computer or other device by the program
 7) The program code is closed, so the user has no right to view the program code and change it
-8) This program is a test program, so the distributor and the consequences of the distribution will be the responsibility of the distributor
+8) This program is a test program, so the distributor and the consequences of the distribution will be the responsibility of the distributor. The author isn`t distributor
 9) If the user refuses to install the program will not be installed
 10) Author - hacerio. Only he and the proxies have the right to make changes
 11) The author is not responsible for a poorly written license agreement
