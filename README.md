@@ -1,4 +1,4 @@
-# Stavki-na-Sport Project is close. Accuracy is not guaranteed
+# Stavki-na-Sport Project is close. Accuracy is not guaranteed. Project is closed.
 This programe predict matches for 14 CsGO teams. Project is close
 1) The program is a test and its accuracy is not guaranteed
 2) The author is not responsible for your actions with the program and is not responsible for your actions with information from the program
